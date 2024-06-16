@@ -1,0 +1,13 @@
+models:
+  glove: glove-wiki-gigaword-50
+  spacy: en_core_web_sm
+  gemini: gemini-1.5-flash
+  openai: gpt-4o
+api_key:
+  google: GEMINI_KEY
+  langsmith: LANGSMITH_KEY
+  openai: OPENAI_KEY
+agent:
+  model: openai
+  logging: false
+  timeout: 3
