@@ -10,4 +10,4 @@ api_key:
 agent:
   model: openai
   logging: false
-  timeout: 3
+  timeout: 10

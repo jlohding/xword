@@ -1,0 +1,33 @@
+ONESHOT RESULT:
+
+[('SOCCER', "Golfer's cousin kicks and scores (6)"),
+ ('HOCKEY', 'Sport on ice, right? (6)'),
+ ('CLUB', 'Exclusive stick? (4)'),
+ ('HOST', 'Master of ceremonies, perhaps? (4)'),
+ ('BASKETBALL', 'Net asset? (10)'),
+ ('MEDIUM', 'Means of communication involving spirits (6)'),
+ ('ATHLETIC', 'In shape, he tackles it (8)'),
+ ('BASEBALL', 'Diamond pursuit (8)'),
+ ('WRESTLE', 'Grapple with sport and lose (7)'),
+ ('TV', 'Broadcast vision, perhaps (2)'),
+ ('ESPN', 'Sports network, switched letters (4)'),
+ ('FOOTBALL', 'Sport involving a leather sphere (8)'),
+ ('COACH', 'Guide to vehicle (5)'),
+ ('GAME', 'Recreation that players play (4)')]
+
+AGENT RESULT: 
+
+[('GAME', 'A contest of risks (4)'),
+ ('SOCCER', 'Game with goals and nets (6)'),
+ ('MEDIUM', 'A means to an end in art and séance (6)'),
+ ('HOST', 'One who greets at the door (4)'),
+ ('FOOTBALL', 'Sport involving goals with kicks (8)'),
+ ('CLUB', 'Gathering place with membership (4)'),
+ ('BASEBALL', "America's pastime, batting around (8)"),
+ ('TV', 'Small screen box (2)'),
+ ('COACH', 'Mentor of teams (5)'),
+ ('ESPN', 'Sports network originally spotted nightly (4)'),
+ ('HOCKEY', 'Sport with sticks and pucks (6)'),
+ ('ATHLETIC', 'Fit for sports, sounds like a competition (8)'),
+ ('BASKETBALL', 'Hoop pursuit? (10)'),
+ ('WRESTLE', 'Grapple in silence (7)')]
