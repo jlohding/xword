@@ -56,6 +56,9 @@ Read the technical blog at `...`.
         - GuessAgent attempts to guess `answer` based on `clue_2`, and process repeats until timeout or successful guess.
 3. With a list of `{answer: clue}` pairs, we generate the crossword iteratively.    
 
+![Agent flow](results/agent_diagram.png)
+
+
 ## Setting up config.yaml
 ```yaml
 TBD
