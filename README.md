@@ -2,7 +2,7 @@
 
 This repository contains source code for my crossword generation project.
 
-I explain how it works in my technical blog [here](https://jlohding.github.io)
+I explain how it works in my technical blog [here](https://jlohding.github.io/posts/crossword/)
 
 ## Usage
 1. Setup environment and dependencies
@@ -46,7 +46,7 @@ DOWN:
 ```
 
 ## How it works
-Read the technical blog [here](https://jlohding.github.io).
+Read the technical blog [here](https://jlohding.github.io/posts/crossword/).
 1. Based on user input `topic`, we generate related words by taking top-k most similar words based on the specified static embedding model (default GloVe)
 2. For each candidate word, we prompt an LLM to generate a clue in an agentic framework:
     - ClueAgent generates `clue_1` based on `answer`
@@ -62,7 +62,7 @@ Read the technical blog [here](https://jlohding.github.io).
 ## Setting up config.yaml
 ```yaml
 models:
-  glove: glove-wiki-gigaword-50
+  glove: glove-wiki-gigaword-50 # make sure you have gensim model installed
   spacy: en_core_web_sm
   gemini: gemini-1.5-flash
   openai: gpt-4o 
